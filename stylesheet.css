@@ -1,3 +1,32 @@
 .title {
     color: #86cdc7;
-  }
+	font-family: YuMinCho;
+}
+
+h1{
+	background-image: url("https://www.photock.jp/photo/middle/photo0000-2513.jpg");
+	background-repeat: repeat-y;
+	border: 2px dotted rgb(0, 0, 0);
+}
+
+.doc {
+    color: rgba(248, 78, 78, 0.779);
+	font-size: 1rem;
+	font-weight: bolder;
+	margin: 10px 10px 10px 5px;
+}
+
+.golang{
+	color:rgb(105, 238, 38);
+}
+
+.python{
+	background-color: fuchsia;
+}
+
+.lang_list{
+	color: rgba(38, 110, 218, 0.603);
+	text-decoration: underline;
+	line-height: 2;
+	border: 2px solid rgb(249, 203, 103);
+}
